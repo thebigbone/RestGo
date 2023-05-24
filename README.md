@@ -1,4 +1,4 @@
-#####To test the RESTful API, use Postman:
+#### To test the RESTful API, use Postman:
 
 1. Generate JWT Token:
 
